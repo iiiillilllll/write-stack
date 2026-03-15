@@ -5,7 +5,9 @@ in uncharted territory.....
 |--:|:--:|:--:|  
 |2026. 02. 08 ||creat repo|
 |03. 07|85,700|draft done|
-|03. 08||Cover image|
+|03. 08|Cover image||
+|03. 14|Cover image|done|
+|03. 15|Polishing||
 
   
 <br>
