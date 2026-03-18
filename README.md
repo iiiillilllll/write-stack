@@ -13,7 +13,7 @@
 
 - [언더판도라 : UnderPandora](./under-pandora.md) : 2025.06.09 ~ 2025.11.27 (출간)
 - [디어오리진 : Dear Origin](./dear-origin.md) : 2025.12.06 ~ 2026.01.29 (출간)
-- [마스터피스 : Masterpiece](./masterpiece.md) : 2026.02.08 ~ 2026.03.08 (출간준비중)
+- [마스터피스 : Masterpiece](./masterpiece.md) : 2026.02.08 ~ 2026.03.08 (출간)
 - [와이낫휴먼 : WhyNotHuman](./why-not-human.md) : 2026.03.08 ~ 
 
 </br>
