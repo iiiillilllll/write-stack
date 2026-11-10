@@ -17,6 +17,7 @@
 - [와이낫휴먼 : WhyNotHuman](./why-not-human.md) : 2026.03.08 ~ 2026. 04. 02(출간)
 - [슈퍼포지션! : SuperPosition!](./superposition.md) : 2026.04.10 ~ 
 
+- [세컨드아웃! : Secondout!](./secondout.md) : 2026.09.09 ~
 </br>
 </br>
 </br>   
@@ -33,6 +34,7 @@
 |3|[마스터피스 : Masterpiece](./masterpiece.md)|퀸튜플가든|2026.09.07|함무망|
 |4|[와이낫휴먼 : WhyNotHuman](./why-not-human.md)|와이낫휴먼|2026.09.07|함무망|
 |5|[슈퍼포지션! : SuperPosition!](./superposition.md)|집필중|||
+|5|[세컨드아웃! : Secondout!](./secondout.md)|집필중|||
 
 </br>
 </br>
@@ -50,3 +52,4 @@
 |3|마스터피스|대공님 로맨스|26.02.08|26. 03. 14|
 |4|와이낫휴먼|이사님 로맨스|26.03.08|26. 04. 02|
 |5|슈퍼포지션!|준비중|||
+|6|세컨드아웃!|준비중|||
